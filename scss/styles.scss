@@ -57,3 +57,21 @@ body {
     }
   }
 }
+
+
+#employees th {
+  background-color: rgb(144, 148, 148);
+  padding: 10px;
+}
+
+#employees img {
+  max-width: 90px;
+}
+
+td {
+padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
